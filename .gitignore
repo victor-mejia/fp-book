@@ -1,4 +1,5 @@
 *.class
+ok.iml
 *.log
 
 # sbt specific
@@ -14,4 +15,8 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
-.worksheet
+.worksheeta
+
+# IntelliJ
+.idea/
+fp-book.iml
